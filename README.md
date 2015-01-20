@@ -1,5 +1,7 @@
 # Ledger Tutorial
-Learn how to use the Ledger CLI tool and hack your finances!
+
+Learn how to use the [Ledger CLI](http://www.ledger-cli.org/) tool and hack your
+finances!
 
 ## Contents
 

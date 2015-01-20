@@ -1,9 +1,7 @@
 ; Lesson 01
 ; Opening Balances & Net Worth
 
-2015/01/01  Opening Balance
-Assets:BankOne:Checking                $100.00
-Assets:BankTwo:Savings               $2,000.00
-Liabilities:BankOne:Mastercard        $-250.00
-Liabilities:BankThree:Visa             $-30.00
-Equity:Opening Balances
+2015/01/01 Opening Balance
+  Assets:GeekBank:Checking               $900.00
+  Liabilities:GeekBank:Mastercard        $-75.00
+  Equity:Opening Balances
