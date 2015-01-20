@@ -1,11 +1,21 @@
 # Ledger Tutorial
 Learn how to use the Ledger CLI tool and hack your finances!
 
-## Install
+## Contents
 
-### OS X
+ - Lesson 01: Opening Balances & Net Worth
+
+## How to use this tutorial
+
+Every lesson will be contained in it's own folder, cd into it and follow the
+instructions inside the README.md file.
+
+## Let's begin!
 
 ```
-brew ledger
+cd lesson-01
 ```
 
+## Licence
+
+Read the [LICENCE](LICENCE)
