@@ -6,6 +6,7 @@ finances!
 ## Contents
 
  - [Lesson 01](lesson-01): Opening Balances & Net Worth
+ - [Lesson 02](lesson-02): Income and Expenses & Cash Flow
 
 ## How to use this tutorial
 
