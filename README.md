@@ -3,7 +3,7 @@ Learn how to use the Ledger CLI tool and hack your finances!
 
 ## Contents
 
- - Lesson 01: Opening Balances & Net Worth
+ - [Lesson 01](lesson-01): Opening Balances & Net Worth
 
 ## How to use this tutorial
 
@@ -18,4 +18,4 @@ cd lesson-01
 
 ## Licence
 
-Read the [LICENCE](LICENCE)
+Read the [LICENSE](LICENSE)
