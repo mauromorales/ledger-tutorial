@@ -1,0 +1,105 @@
+; Lesson 02
+; Income and Expenses & Cash Flow
+
+2015/01/01 Opening Balance
+  Assets:GeekBank:Checking               $900.00
+  Liabilities:GeekBank:Mastercard        $-75.00
+  Equity:Opening Balances
+
+2015/01/01 Linode
+  ;Personal production server and development server
+  Expenses:Services and Equipment         $80.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/02 Lanlord Inc.
+  ;Nice apartment in city center
+  Expenses:Rent                         $1100.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/02 StarBucks
+  ;<3 Coffee
+  Expenses:Coffee                          $3.65
+  Liabilities:GeekBank:Mastercard
+
+2015/01/03 InterTelco
+  ;Home internet & mobile
+  Expenses:Services and Equipment        $120.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/04 The Lobster
+  Expenses:Dining Out                     $44.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/05 Wallmart
+  Expenses:Groceries                     $320.32
+  Liabilities:GeekBank:Mastercard
+
+2015/01/07 StarBucks
+  Expenses:Coffee                          $3.65
+  Liabilities:GeekBank:Mastercard
+
+2015/01/12 Amazon.com
+  Expenses:Books                          $73.20
+  Expenses:Gadgets                       $249.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/13 StarBucks
+  Expenses:Coffee                          $3.65
+  Liabilities:GeekBank:Mastercard
+
+2015/01/14 Netflix
+  Expenses:Subscriptions                   $7.99
+  Liabilities:GeekBank:Mastercard
+
+2015/01/15 Mario's Trattoria
+  Expenses:Dining Out                     $23.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/17 Cash
+  Expenses:Cash                          $100.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/18 DevelopmentCasts
+  Expenses:Subscriptions                   $9.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/18 The Bar
+  Expenses:Drinks                         $39.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/19 StarBucks
+  Expenses:Coffee                          $3.65
+  Liabilities:GeekBank:Mastercard
+
+2015/01/20 GeekBank
+  ; pay last month in full
+  Liabilities:GeekBank:Mastercard         $75.00
+  Assets:GeekBank:Checking
+
+2015/01/20 Tablet Magazine
+  Expenses:Subscriptions                  $14.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/21 Google Play Store
+  Expenses:Apps & Games                    $2.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/22 CityTransport
+  ; monthly card
+  Expenses:Transport                      $65.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/26 CodingChamaleons
+  ; January salary as a junior developer after taxes
+  Assets:GeekBank:Checking              $2500.00
+  Income:Salary
+
+2015/01/27 Hard Rock Cafe
+  Expenses:Dining Out                     $45.00
+  Liabilities:GeekBank:Mastercard
+
+2015/01/28 Gifts and Co.
+  ; Sandra's birthday
+  Expenses:Gifts                          $30.00
+  Liabilities:GeekBank:Mastercard
+
