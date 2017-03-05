@@ -52,5 +52,5 @@ And Ledger gives him back the following output:
 ```
 
 Helmut started the year with a net worth of $825. He is exited that it only took
-about fife minutes of his time. He is excited to see how things develop next
+about five minutes of his time. He is excited to see how things develop next
 week in lesson 02 when he starts putting in his income and expenses.
